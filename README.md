@@ -1,4 +1,4 @@
-# walletconnect-python-example# WalletConnect Python Example
+# walletconnect-python- WalletConnect Python Example
 
 This repository contains a simple Python script that demonstrates how to interact with the Ethereum network using Web3.py and WalletConnect.
 
